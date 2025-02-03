@@ -10,6 +10,7 @@ This project implements a compiler for the Minimal++ programming language and wa
 The compiler includes a symbol table, handles nested functions and scopes, and outputs both intermediate code and executable assembly code. The project is tested with various programs that run successfully in the MARS simulator.
 
 **Credits**
+
 Eleni Mouzaki
 
 Panagiotis Papaioannou
