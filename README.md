@@ -11,6 +11,7 @@ The compiler includes a symbol table, handles nested functions and scopes, and o
 
 **Credits**
 Eleni Mouzaki
+
 Panagiotis Papaioannou
 
 
